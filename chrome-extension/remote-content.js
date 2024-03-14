@@ -1,8 +1,7 @@
-console.log(`INJECT REINFORCE 2`);
-alert(123123)
+console.log(`INJECT REINFORCE`);
 const ubxInject = {
   init: () => {
-    console.log(123123);
+    console.log('Init ...');
   }  
 };
 
