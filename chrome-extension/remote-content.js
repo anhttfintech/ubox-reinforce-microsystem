@@ -1,3 +1,4 @@
+alert(999888);
 console.log(91919);
 // const ubxInject = {
 //   init: () => {
